@@ -3,6 +3,8 @@
 <h4>Установка</h4>
 
 ```bash
+  git clone https://github.com/chichur/eggert-exel.git
+  cd ./eggert-exel
   npm install
 ```
 
